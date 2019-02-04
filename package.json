@@ -1,7 +1,7 @@
 {
-  "name": "Lenin for Sasha Leybnits",
+  "name": "lenin",
   "version": "1.0.0",
-  "description": "",
+  "description": "Lenin for Sasha Leybnits",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
