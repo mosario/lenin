@@ -1,5 +1,6 @@
-#Lenin for Sasha Leybnits
+# Lenin for Sasha Leybnits
 
+```
         _______
      _/~       ~~--_
     /               ~-_
